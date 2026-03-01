@@ -64,8 +64,8 @@ Keys are verified by decrypting the first NTFS sector and checking for the `NTFS
 
 ```json
 {
-  "data_key": "5ebe8c36...",
-  "tweak_key": "34e1bb44...",
+  "data_key": "5.......",
+  "tweak_key": "3.......",
   "algorithm": "AES-256-XTS",
   "partition_lba_start": 63,
   "partition_sectors": 58621122,
